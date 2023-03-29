@@ -1,2 +1,2 @@
-# latihan-push
+# latihan_push
 latihan push
